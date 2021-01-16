@@ -1,2 +1,2 @@
 # dotfiles
-Updating and modifying dotfile configuration for neovim
+Plugins, configs, common-sense settings. Primarily used for Go.
