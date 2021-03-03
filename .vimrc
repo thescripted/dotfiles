@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 set nu
 set relativenumber
 set clipboard=unnamed
